@@ -15,3 +15,10 @@ Esse projeto trabalha com uma base de dados Postgree
 Exemplo:
 
 ConnectionStrings__MyConnection: Host=localhost;Database=pguser;Username=pguser;Password=Pg@123;
+
+
+-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=
+
+CRIAÇÃO DO DOCKERFILE
+
+Foi criado o documento "Dockerfile" para criação da imagem da aplicação e posterior utilização no ambiente da aplicação rotten-potatoes-ms
